@@ -14,11 +14,11 @@ Using the available data, recommend three rental locations where an advertiser s
 
 **DATA COLLECTION, DESCRIPTION & ANALYSIS**
 
-Check attached supplemnetary material.
+Check attached supplemnetary material: https://github.com/Orinamhe/Bike-Sharing-Patterns/blob/main/Data%20description_task%20and%20SQL%20queries.pdf
 
 **DATA VISUALISATION**
 
-Check attached Bike_rental_report
+Check attached Bike_rental_report: https://github.com/Orinamhe/Bike-Sharing-Patterns/blob/main/Bike_rental_report.pdf
 
 **SUMMARY AND RECOMMENDATIONS**
 Bike rental activity showed a consistent increase throughout the year, with January having the lowest activity and May the highest. Analysis of hourly rental data revealed that most bike rentals occurred between 15:00 and 18:00, peaking at 17:00/17:30.
