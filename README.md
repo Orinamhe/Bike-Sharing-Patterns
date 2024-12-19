@@ -1,6 +1,7 @@
 # Bike-Sharing-Patterns
 Leveraging PostgreSQL and Power BI for comprehensive analysis of bike sharing patterns in Budapest
-Click here for detailed report: https://medium.com/@orinamhe.agbadua_88832/cycling-through-data-leveraging-sql-for-comprehensive-analysis-of-bike-sharing-patterns-in-7c4e9772465e
+
+**Click here for detailed report**: https://medium.com/@orinamhe.agbadua_88832/cycling-through-data-leveraging-sql-for-comprehensive-analysis-of-bike-sharing-patterns-in-7c4e9772465e
 
 
 **OBJECTIVES**
